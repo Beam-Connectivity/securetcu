@@ -1,0 +1,17 @@
+theme: jekyll-theme-slate
+
+title: "SecureTCU"
+
+image:
+  path: /assets/images/Beam Connectivity logo 900x300 transparent.png
+  height: 300
+  width: 900
+
+github:
+  is_project_page: false
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'CNAME']
+
+links:
+  - title: Home
+    url: /
