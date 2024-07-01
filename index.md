@@ -14,7 +14,7 @@ The output from the project will be a hardened, market-ready automotive Telemati
 This project is made possible by the collaboration of the consortium members from the United Kingdom and Republic of Korea:
 
 |:---:|:---:|:---:|:---:|:---:|
-|![Autocrypt](/assets/images/autocrypt-logo-black.png){: height="30" } | ![Beam-Connectivity](/assets/images/Beam Connectivity logo 900x300 transparent.png){: height="50" } | ![KATECH](/assets/images/katech_logo_white.png){: height="60" } | ![Secure Elements](/assets/images/secure-elements-logo-1-1024x203-black.png){: height="35" }
+|![Autocrypt](/assets/images/autocrypt-logo-black.png){: height="30" } | ![Beam-Connectivity](/assets/images/Beam-Connectivity-Logo-Blue.png){: height="45" } | ![KATECH](/assets/images/katech_logo_white.png){: height="60" } | ![Secure Elements](/assets/images/secure-elements-logo-1-1024x203-black.png){: height="35" }
 
 * 🇰🇷 **Autocrypt** - Software stacks for IDS and SOTA security
 * 🇬🇧 **Beam Connectivity** - Implementation of IDS capabilities on the Connected Vehicle as a Service platform
