@@ -2,11 +2,9 @@
 layout: default
 ---
 
-### Project Summary
+The SecureTCU project is taking cyber security for TCUs to the next level by integrating security innovations and validating the design through a new, regulations-aligned process.
 
-The SecureTCU project will take cyber security for TCUs to the next level by integrating security innovations and validating the design through a new, regulations-aligned process.
-
-The output from the project will be a hardened, market-ready automotive Telematics module (TCU) with embedded Intrusion Detection System (IDS) capabilities. This will offer class-leading protection from attacks launched over wireless interfaces, which is increasingly the dominant attack vector.
+The output from the project is a hardened, market-ready automotive Telematics module (TCU) with embedded Intrusion Detection System (IDS) capabilities. This offers class-leading protection from attacks launched over wireless interfaces, which is increasingly the dominant attack vector.
 
 
 ### Consortium Partners
