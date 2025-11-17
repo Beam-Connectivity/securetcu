@@ -7,6 +7,24 @@
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+#project_logo_link {
+    display: inline-block;
+    text-decoration: none;
+}
+
+#project_logo {
+    height: 50px;
+    width: auto;
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+    #project_logo {
+        height: 40px;
+    }
+}
 .inner {
     max-width: 900px;
 }
