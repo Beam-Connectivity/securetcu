@@ -62,15 +62,15 @@ This project is made possible by the collaboration of the consortium members fro
 <div class="timeline">
   <div class="timeline-item">
     <span class="timeline-date">2025-07-02</span>
-    UK engineering team visit KATECH proving ground in Cheonan-si and successfully integrate Beam Connectivity TCU with Renault Arkana to demonstrate secure teleoperations</a>
+    UK engineering team visit KATECH proving ground in Cheonan-si and successfully integrate Beam Connectivity TCU with Renault Arkana to demonstrate secure teleoperations
   </div>
   <div class="timeline-item">
     <span class="timeline-date">2024-11-04</span>
-    Korea team from KATECH and Autocrypt visit UK for technical discussions and customer visits</a>
+    Korea team from KATECH and Autocrypt visit UK for technical discussions and customer visits
   </div>
   <div class="timeline-item">
     <span class="timeline-date">2024-07-01</span>
-    UK team from Beam Connectivity and Secure Elements visit Seoul and Cheonan-si for technical discussions and customer visits</a>
+    UK team from Beam Connectivity and Secure Elements visit Seoul and Cheonan-si for technical discussions and customer visits
   </div>
 
 
