@@ -61,12 +61,26 @@ This project is made possible by the collaboration of the consortium members fro
 
 <div class="timeline">
   <div class="timeline-item">
+    <span class="timeline-date">2025-07-02</span>
+    UK engineering team visit KATECH proving ground in Cheonan-si and successfully integrate Beam Connectivity TCU with Renault Arkana to demonstrate secure teleoperations</a>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2024-11-04</span>
+    Korea team from KATECH and Autocrypt visit UK for technical discussions and customer visits</a>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2024-07-01</span>
+    UK team from Beam Connectivity and Secure Elements visit Seoul and Cheonan-si for technical discussions and customer visits</a>
+  </div>
+
+
+  <div class="timeline-item">
     <span class="timeline-date">2023-11-14</span>
-    <a href="https://www.itbiznews.com/news/articleView.html?idxno=117304">IT BizNews - Autocrypt begins development of SDV security solution</a> <span class="timeline-lang">[KR]</span>
+    Autocrypt begins development of SDV security solution - <a href="https://www.itbiznews.com/news/articleView.html?idxno=117304">IT BizNews article</a> <span class="timeline-lang">[KR]</span>
   </div>
   <div class="timeline-item">
     <span class="timeline-date">2023-08-16</span>
-    <a href="https://blog.beamconnectivity.com/project-announcement-securetcu-af5975d606b4">Beam Connectivity blog - Announcing SecureTCU project</a> <span class="timeline-lang">[ENG]</span>
+    Beam Connectivity blog - <a href="https://blog.beamconnectivity.com/project-announcement-securetcu-af5975d606b4">Announcing SecureTCU project</a> <span class="timeline-lang">[ENG]</span>
   </div>
 </div>
 
