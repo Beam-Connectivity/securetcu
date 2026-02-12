@@ -2,12 +2,17 @@
 layout: default
 ---
 
+<section id="about" class="page-section" markdown="1">
+
 The SecureTCU project is taking cyber security for TCUs to the next level by integrating security innovations and validating the design through a new, regulations-aligned process.
 
 The output from the project is a hardened, market-ready automotive Telematics module (TCU) with embedded Intrusion Detection System (IDS) capabilities. This offers class-leading protection from attacks launched over wireless interfaces, which is increasingly the dominant attack vector.
 
+</section>
 
-### Consortium Partners
+<section id="partners" class="page-section" markdown="1">
+
+### CONSORTIUM PARTNERS
 
 This project is made possible by the collaboration of the consortium members from the United Kingdom and Republic of Korea:
 
@@ -23,8 +28,21 @@ This project is made possible by the collaboration of the consortium members fro
 * 🇰🇷 **KATECH - Korea Automotive Technology Institute** - Verification and validation activities
 * 🇬🇧 **Secure Elements** - Providing guidance and Cyber Security Management System, CRISKLE
 
+</section>
 
-### News & Links
+<section id="teaser" class="page-section" markdown="1">
+
+### PROJECT TEASER
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/Olj8wyPugi0" title="SecureTCU Project Teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</section>
+
+<section id="news" class="page-section" markdown="1">
+
+### NEWS & LINKS
 
 <div class="timeline">
   <div class="timeline-item">
@@ -37,8 +55,11 @@ This project is made possible by the collaboration of the consortium members fro
   </div>
 </div>
 
+</section>
 
-### Whitepapers
+<section id="whitepapers" class="page-section" markdown="1">
+
+### WHITEPAPERS
 
 ##### SecureTCU Paper 1: UNECE R155/R156 Compliance through a Novel Cybersecurity Lifecycle Approach (2024-07-01)
 
@@ -50,3 +71,4 @@ Further, the Secure Telematics Control Unit will offer insights into the develop
 <a href="/assets/downloads/UNECE-R155-R156-Compliance-through-a-Novel-Cybersecurity-Lifecycle-Approach.pdf" target="_blank" class="btn-download">Download Whitepaper (PDF)</a>
 </div>
 
+</section>
