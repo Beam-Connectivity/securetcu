@@ -16,17 +16,32 @@ The output from the project is a hardened, market-ready automotive Telematics mo
 
 This project is made possible by the collaboration of the consortium members from the United Kingdom and Republic of Korea:
 
-<div class="partner-logos">
-  <a href="https://autocrypt.io"><img src="/assets/images/autocrypt-logo-black.png" alt="Autocrypt" height="40"></a>
-  <a href="https://beamconnectivity.com"><img src="/assets/images/Beam-Connectivity-Logo-Blue.png" alt="Beam Connectivity" height="55"></a>
-  <a href="https://www.katech.re.kr"><img src="/assets/images/katech_logo_white.png" alt="KATECH" height="65"></a>
-  <a href="https://www.secureelements.co.uk"><img src="/assets/images/secure-elements-logo-1-1024x203-black.png" alt="Secure Elements" height="45"></a>
+<div class="partner-grid">
+  <a href="https://autocrypt.io" class="partner-card">
+    <div class="partner-card-logo"><img src="/assets/images/autocrypt-logo-black.png" alt="Autocrypt" height="30"></div>
+    <span class="partner-flag">🇰🇷</span>
+    <p class="partner-card-desc">Software stacks for IDS and SOTA security</p>
+    <span class="partner-card-url">autocrypt.io</span>
+  </a>
+  <a href="https://beamconnectivity.com" class="partner-card">
+    <div class="partner-card-logo"><img src="/assets/images/Beam-Connectivity-Logo-Blue.png" alt="Beam Connectivity" height="45"></div>
+    <span class="partner-flag">🇬🇧</span>
+    <p class="partner-card-desc">Implementation of IDS capabilities on the Connected Vehicle as a Service platform</p>
+    <span class="partner-card-url">beamconnectivity.com</span>
+  </a>
+  <a href="https://www.katech.re.kr" class="partner-card">
+    <div class="partner-card-logo"><img src="/assets/images/katech_logo_white.png" alt="KATECH" height="55"></div>
+    <span class="partner-flag">🇰🇷</span>
+    <p class="partner-card-desc">Verification and validation activities</p>
+    <span class="partner-card-url">katech.re.kr</span>
+  </a>
+  <a href="https://www.secureelements.co.uk" class="partner-card">
+    <div class="partner-card-logo"><img src="/assets/images/secure-elements-logo-1-1024x203-black.png" alt="Secure Elements" height="35"></div>
+    <span class="partner-flag">🇬🇧</span>
+    <p class="partner-card-desc">Providing guidance and Cyber Security Management System, CRISKLE</p>
+    <span class="partner-card-url">secureelements.co.uk</span>
+  </a>
 </div>
-
-* 🇰🇷 **Autocrypt** - Software stacks for IDS and SOTA security
-* 🇬🇧 **Beam Connectivity** - Implementation of IDS capabilities on the Connected Vehicle as a Service platform
-* 🇰🇷 **KATECH - Korea Automotive Technology Institute** - Verification and validation activities
-* 🇬🇧 **Secure Elements** - Providing guidance and Cyber Security Management System, CRISKLE
 
 </section>
 
