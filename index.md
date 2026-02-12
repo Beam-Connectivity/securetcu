@@ -11,8 +11,12 @@ The output from the project is a hardened, market-ready automotive Telematics mo
 
 This project is made possible by the collaboration of the consortium members from the United Kingdom and Republic of Korea:
 
-|:---:|:---:|:---:|:---:|
-|![Autocrypt](/assets/images/autocrypt-logo-black.png){: height="40" } | ![Beam-Connectivity](/assets/images/Beam-Connectivity-Logo-Blue.png){: height="55" } | ![KATECH](/assets/images/katech_logo_white.png){: height="65" } | ![Secure Elements](/assets/images/secure-elements-logo-1-1024x203-black.png){: height="45" }
+<div class="partner-logos">
+  <a href="https://autocrypt.io"><img src="/assets/images/autocrypt-logo-black.png" alt="Autocrypt" height="40"></a>
+  <a href="https://beamconnectivity.com"><img src="/assets/images/Beam-Connectivity-Logo-Blue.png" alt="Beam Connectivity" height="55"></a>
+  <a href="https://www.katech.re.kr"><img src="/assets/images/katech_logo_white.png" alt="KATECH" height="65"></a>
+  <a href="https://www.secureelements.co.uk"><img src="/assets/images/secure-elements-logo-1-1024x203-black.png" alt="Secure Elements" height="45"></a>
+</div>
 
 * 🇰🇷 **Autocrypt** - Software stacks for IDS and SOTA security
 * 🇬🇧 **Beam Connectivity** - Implementation of IDS capabilities on the Connected Vehicle as a Service platform
@@ -30,7 +34,7 @@ This project is made possible by the collaboration of the consortium members fro
 
 ##### SecureTCU Paper 1: UNECE R155/R156 Compliance through a Novel Cybersecurity Lifecycle Approach (2024-07-01)
 
-(*Executive Summary*) This whitepaper is the first of several updates expected from project SecureTCU, a UK South Korea collaborative research and development project (CR&D), funded by UK’s Innovate UK and South Korea’s KIAT. The project is developing a next-generation TCU with an in-tegrated Intrusion Detection System (IDS) and aims to enhance the security posture of SDVs. This product addresses a critical need in the automotive industry, as manufacturers strive to meet stringent cybersecurity require-ments while unlocking the full potential of connected and automated driving systems.
+(*Executive Summary*) This whitepaper is the first of several updates expected from project SecureTCU, a UK South Korea collaborative research and development project (CR&D), funded by UK's Innovate UK and South Korea's KIAT. The project is developing a next-generation TCU with an in-tegrated Intrusion Detection System (IDS) and aims to enhance the security posture of SDVs. This product addresses a critical need in the automotive industry, as manufacturers strive to meet stringent cybersecurity require-ments while unlocking the full potential of connected and automated driving systems.
 
 Further, the Secure Telematics Control Unit will offer insights into the development challenges of a next-generation Telematics Control Unit (TCU) with an integrated Intrusion Detection System (IDS) for detecting threats in a remote teleoperation driving use case. The development of the SecureTCU follows a comprehensive Systems, Safety and Cybersecurity engineering process using an Integrated safety and security application, CRISKLE™, which evaluates safety hazards that could arise as a result of a security threats on asset/s in the teleoperated driving scenario. Additionally, this whitepaper introduces an industry first concept of integrated safety and security analysis and examines the interactions between safety and security, providing recommendations for addressing potential risks.
 

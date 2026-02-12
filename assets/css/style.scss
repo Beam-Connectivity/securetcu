@@ -146,3 +146,46 @@ img {
     border-width: 0;
     box-shadow: none;
 }
+
+/* Partner logo grids */
+.partner-logos,
+.footer-logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 32px;
+    padding: 20px 0;
+}
+
+.partner-logos a,
+.footer-logos a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 1 auto;
+}
+
+.partner-logos img,
+.footer-logos img {
+    filter: grayscale(100%);
+    opacity: 0.7;
+    transition: filter 0.3s ease, opacity 0.3s ease;
+}
+
+.partner-logos img:hover,
+.footer-logos img:hover {
+    filter: grayscale(0%);
+    opacity: 1;
+}
+
+.footer-logos img {
+    filter: grayscale(100%) brightness(1.5);
+    opacity: 0.6;
+}
+
+.footer-logos img:hover {
+    filter: grayscale(0%) brightness(1);
+    opacity: 1;
+}
+
