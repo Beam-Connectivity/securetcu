@@ -52,5 +52,22 @@
         </div>
       </footer>
     </div>
+    <script>
+      document.addEventListener('DOMContentLoaded', function () {
+        var targets = document.querySelectorAll('#main_content > *, #main_content .partner-logos, #main_content .timeline');
+        targets.forEach(function (el) {
+          el.classList.add('fade-in');
+        });
+        var observer = new IntersectionObserver(function (entries) {
+          entries.forEach(function (entry) {
+            if (entry.isIntersecting) {
+              entry.target.classList.add('visible');
+              observer.unobserve(entry.target);
+            }
+          });
+        }, { threshold: 0.15 });
+        targets.forEach(function (el) { observer.observe(el); });
+      });
+    </script>
   </body>
 </html>
