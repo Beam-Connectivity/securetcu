@@ -4,21 +4,37 @@
 @import "{{ site.theme }}";
 
 body {
-    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     font-size: 16px;
     line-height: 1.75;
     color: #3a3a3a;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     font-weight: 600;
     margin-top: 2em;
     margin-bottom: 0.75em;
 }
 
 p, li, td, th {
-    font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+}
+
+a {
+    transition: color 0.25s ease, opacity 0.25s ease;
+}
+
+#main_content a:not(.btn-download) {
+    color: #A93A33;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: color 0.25s ease, border-bottom-color 0.25s ease;
+}
+
+#main_content a:not(.btn-download):hover {
+    color: #8a2e28;
+    border-bottom-color: #8a2e28;
 }
 
 #header_wrap .inner {
