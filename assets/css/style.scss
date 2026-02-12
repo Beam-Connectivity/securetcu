@@ -142,14 +142,18 @@ a {
 
 h1 {
     color: #A93A33;
-  }
+}
 
 h2 {
     color: #A93A33;
 }
 
 h3 {
-    color: #A93A33;
+    color: #1e2a3a;
+}
+
+h5 {
+    color: #1e2a3a;
 }
 
 table, tr, td {
@@ -284,7 +288,7 @@ img {
 .timeline {
     position: relative;
     padding-left: 24px;
-    border-left: 2px solid #d4d4d4;
+    border-left: 2px solid #1e2a3a;
     margin: 16px 0;
 }
 
@@ -302,7 +306,7 @@ img {
     width: 10px;
     height: 10px;
     background: #A93A33;
-    border: 2px solid #ffffff;
+    border: 2px solid #1e2a3a;
     border-radius: 50%;
 }
 
