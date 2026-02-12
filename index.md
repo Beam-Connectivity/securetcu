@@ -26,8 +26,16 @@ This project is made possible by the collaboration of the consortium members fro
 
 ### News & Links
 
-* 2023-11-14 - [IT BizNews - Autocrypt begins development of SDV security solution](https://www.itbiznews.com/news/articleView.html?idxno=117304) [KR]
-* 2023-08-16 - [Beam Connectivity blog - Announcing SecureTCU project](https://blog.beamconnectivity.com/project-announcement-securetcu-af5975d606b4) [ENG]
+<div class="timeline">
+  <div class="timeline-item">
+    <span class="timeline-date">2023-11-14</span>
+    <a href="https://www.itbiznews.com/news/articleView.html?idxno=117304">IT BizNews - Autocrypt begins development of SDV security solution</a> <span class="timeline-lang">[KR]</span>
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2023-08-16</span>
+    <a href="https://blog.beamconnectivity.com/project-announcement-securetcu-af5975d606b4">Beam Connectivity blog - Announcing SecureTCU project</a> <span class="timeline-lang">[ENG]</span>
+  </div>
+</div>
 
 
 ### Whitepapers
