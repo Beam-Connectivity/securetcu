@@ -189,3 +189,25 @@ img {
     opacity: 1;
 }
 
+/* Download button */
+.btn-download {
+    display: inline-block;
+    background-color: #A93A33;
+    color: #ffffff !important;
+    padding: 12px 28px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95em;
+    letter-spacing: 0.02em;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    margin-top: 8px;
+}
+
+.btn-download:hover {
+    background-color: #8a2e28;
+    box-shadow: 0 2px 8px rgba(169, 58, 51, 0.3);
+    text-decoration: none;
+    color: #ffffff !important;
+}
+

@@ -38,5 +38,7 @@ This project is made possible by the collaboration of the consortium members fro
 
 Further, the Secure Telematics Control Unit will offer insights into the development challenges of a next-generation Telematics Control Unit (TCU) with an integrated Intrusion Detection System (IDS) for detecting threats in a remote teleoperation driving use case. The development of the SecureTCU follows a comprehensive Systems, Safety and Cybersecurity engineering process using an Integrated safety and security application, CRISKLE™, which evaluates safety hazards that could arise as a result of a security threats on asset/s in the teleoperated driving scenario. Additionally, this whitepaper introduces an industry first concept of integrated safety and security analysis and examines the interactions between safety and security, providing recommendations for addressing potential risks.
 
-🔽 <a href="/assets/downloads/UNECE-R155-R156-Compliance-through-a-Novel-Cybersecurity-Lifecycle-Approach.pdf" target="_blank">Download whitepaper</a>
+<div style="text-align: center;">
+<a href="/assets/downloads/UNECE-R155-R156-Compliance-through-a-Novel-Cybersecurity-Lifecycle-Approach.pdf" target="_blank" class="btn-download">Download Whitepaper (PDF)</a>
+</div>
 
