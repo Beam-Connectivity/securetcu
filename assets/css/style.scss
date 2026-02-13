@@ -43,9 +43,12 @@
 }
 
 @media (max-width: 768px) {
+    .nav-links {
+        white-space: nowrap;
+    }
     .nav-links a {
-        margin-left: 16px;
-        font-size: 0.78em;
+        margin-left: 12px;
+        font-size: 0.72em;
     }
 }
 
