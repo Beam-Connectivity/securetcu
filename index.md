@@ -65,6 +65,10 @@ This project is made possible by the collaboration of the consortium members fro
     UK engineering team visit KATECH proving ground in Cheonan-si and successfully integrate Beam Connectivity TCU with Renault Arkana to demonstrate secure teleoperations
   </div>
   <div class="timeline-item">
+    <span class="timeline-date">2025-06-25</span>
+    Intrusion Detection System (IDS) from Autocrypt is successfully integrated into Beam Connectivity TCU
+  </div>
+  <div class="timeline-item">
     <span class="timeline-date">2024-11-04</span>
     Korea team from KATECH and Autocrypt visit UK for technical discussions and customer visits
   </div>
@@ -72,8 +76,6 @@ This project is made possible by the collaboration of the consortium members fro
     <span class="timeline-date">2024-07-01</span>
     UK team from Beam Connectivity and Secure Elements visit Seoul and Cheonan-si for technical discussions and customer visits
   </div>
-
-
   <div class="timeline-item">
     <span class="timeline-date">2023-11-14</span>
     Autocrypt begins development of SDV security solution - <a href="https://www.itbiznews.com/news/articleView.html?idxno=117304">IT BizNews article</a> <span class="timeline-lang">[KR]</span>
