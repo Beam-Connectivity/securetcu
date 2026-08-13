@@ -61,6 +61,14 @@ This project is made possible by the collaboration of the consortium members fro
 
 <div class="timeline">
   <div class="timeline-item">
+    <span class="timeline-date">2026-10-20</span>
+    SecureTCU will be presenting at ITS World Congress 2026 in Gangneung, Korea.
+  </div>
+  <div class="timeline-item">
+    <span class="timeline-date">2026-07-23</span>
+    We present to UK AESIN (Automotive Electronic Systems Innovation Network) a session titled "How to cut the cost of continuous cyber compliance" using SecureTCU solution. <a href="https://youtu.be/YGZbg00E-aA?si=s8aQRlsjH4WDfWqO&t=886">AESIN July 2026 TechTalk, YouTube</a>
+  </div>
+  <div class="timeline-item">
     <span class="timeline-date">2025-07-02</span>
     UK engineering team visit KATECH proving ground in Cheonan-si and successfully integrate Beam Connectivity TCU with Renault Arkana to demonstrate secure teleoperations
   </div>
