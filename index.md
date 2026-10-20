@@ -45,6 +45,16 @@ This project is made possible by the collaboration of the consortium members fro
 
 </section>
 
+<section id="demo" class="page-section" markdown="1">
+
+### PROJECT DEMO
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/eoCWrf5RODM" title="SecureTCU Project Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+</section>
+
 <section id="teaser" class="page-section" markdown="1">
 
 ### PROJECT TEASER
@@ -62,7 +72,7 @@ This project is made possible by the collaboration of the consortium members fro
 <div class="timeline">
   <div class="timeline-item">
     <span class="timeline-date">2026-10-20</span>
-    SecureTCU will be presenting at ITS World Congress 2026 in Gangneung, Korea.
+    SecureTCU was presented at ITS World Congress 2026 in Gangneung, Korea in Special Interest Session 007.
   </div>
   <div class="timeline-item">
     <span class="timeline-date">2026-07-23</span>
