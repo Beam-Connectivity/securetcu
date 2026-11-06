@@ -108,7 +108,17 @@ This project is made possible by the collaboration of the consortium members fro
 
 <section id="whitepapers" class="page-section" markdown="1">
 
-### WHITEPAPERS
+### WHITEPAPERS & REPORTS
+
+##### SecureTCU Field Demonstration Report (2026-06-09)
+
+This report documents the final field demonstration of the SecureTCU solution, carried out at the KATECH proving ground in Cheonan, Republic of Korea, using a remotely teleoperated test vehicle fitted with the SecureTCU prototype. The objective was to verify end-to-end cybersecurity detection and response in a live remote-operation environment.
+
+The integrated TCU combines CAN, Cellular and Host Intrusion Detection Systems (IDS). Attacks were launched against the vehicle, including CAN signal overflow and manipulation of speed, steering, gear and RPM values, cellular flooding and outbound spoofing, unauthorised logins, IDS policy file tampering and process manipulation. Each attack was detected by the IDS and reported to the CRISKLE™ Mobility SOC (MSOC). The Remote Teleoperation Control Centre (RTOC) then responded by stopping the vehicle. MSOC playbooks automatically notified the responsible personnel and created developer tickets, and the issue was resolved with a successful over-the-air (OTA) update.
+
+<div style="text-align: center;">
+<a href="/assets/downloads/SecureTCU-Field-Demonstration-Report-2026.pdf" target="_blank" class="btn-download">Download Report (PDF)</a>
+</div>
 
 ##### SecureTCU Paper 1: UNECE R155/R156 Compliance through a Novel Cybersecurity Lifecycle Approach (2024-07-01)
 
