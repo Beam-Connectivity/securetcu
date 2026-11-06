@@ -79,6 +79,10 @@ This project is made possible by the collaboration of the consortium members fro
     We present to UK AESIN (Automotive Electronic Systems Innovation Network) a session titled "How to cut the cost of continuous cyber compliance" using SecureTCU solution. <a href="https://youtu.be/YGZbg00E-aA?si=s8aQRlsjH4WDfWqO&t=886">AESIN July 2026 TechTalk, YouTube</a>
   </div>
   <div class="timeline-item">
+    <span class="timeline-date">2026-06-09</span>
+    SecureTCU field demonstration at KATECH proving ground in Cheonan-si: CAN, Cellular and Host IDS detect live attacks on a remotely teleoperated vehicle, with automated response via the CRISKLE™ MSOC and remediation by OTA update - <a href="#whitepapers">Field Demonstration Report</a>
+  </div>
+  <div class="timeline-item">
     <span class="timeline-date">2025-07-02</span>
     UK engineering team visit KATECH proving ground in Cheonan-si and successfully integrate Beam Connectivity TCU with Renault Arkana to demonstrate secure teleoperations
   </div>
